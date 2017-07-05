@@ -7,4 +7,4 @@
 3、服务商（含用友云自营商品或服务）根据客户填写发票信息开具所需发票。
 
 
-[发票申请步骤](/articles/yycloud/2-/fapiaoshenqing.md)
+[发票申请步骤](/doc/cloud_market.html#/md-build/cloud_market/articles/yycloud/2-/fapiaoshenqing.md)
