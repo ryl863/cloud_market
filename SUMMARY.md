@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
 * [用友云简介](articles/yycloud/1-/README.md)
+    * [概述](articles/yycloud/1-/README.md)
 * [了解云市场](articles/yycloud/3-/zero.md)
     * [云市场简介](articles/yycloud/3-/yunshichang.md)
     * [云市场服务协议](articles/yycloud/3-/fuwuxieyi.md)
