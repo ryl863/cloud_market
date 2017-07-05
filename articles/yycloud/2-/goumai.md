@@ -14,6 +14,6 @@
 
 （5）服务商服务交付后，客户在用友云客户管理平台【订单管理】选项中进行【服务确认】操作，请在购买后30天之内确认，超过30天后客户无任何响应用友云平台将默认客户已“确认交付”，订单交易流程结束。
 
-[详细购买流程](/doc/cloud_market.html#/md-build/cloud_market/articles/yycloud/2-/guanwangjieshao.md)
+[详细购买流程](/doc/cloud_market.html#/md-build/cloud_market/articles/yycloud/2-/goumailiucheng.md)
 
 
