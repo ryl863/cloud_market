@@ -1,0 +1,30 @@
+{ 
+ "title": "用友云市场", 
+ "desc": "用友云是面向社会级商业应用的基础设施，中国领先的商业(企业)云服务平台，致力于帮助企业、组织、团
+
+体等快速构建云应用服务，提供全面的云技术解决方案与云产品。用友云为商业应用提供高价值的资讯(咨询)与服务，
+
+推动中国社会级商业云服务市场的创新创业。拥有云市场、云平台、云服务(云产品)、云开发等业务。", 
+ "list": [ 
+ { 
+ "title": "了解云市场", 
+ "link": "#/md-build/cloud_market/articles/yycloud/3-/yunshichang.md", 
+ "desc": "云市场简介和云市场服务协议" 
+ }, 
+ { 
+ "title": "新手入门", 
+ "link": "#/md-build/cloud_market/articles/yycloud/2-/README.md", 
+ "desc": "介绍了从购买流程到申请发票的过程" 
+ }, 
+ { 
+ "title": "生态合作", 
+ "link": "#/md-build/cloud_market/articles/yycloud/5-/tiaojian.md", 
+ "desc": "介绍了云市场入驻条件、流程和常见问题" 
+ }, 
+ { 
+ "title": "服务商入驻", 
+ "link": "#/md-build/cloud_market/articles/yycloud/4-/fuwuxieyi.md", 
+ "desc": "详细介绍了服务商入驻的流程和协议规范" 
+ } 
+ ] 
+ } 
