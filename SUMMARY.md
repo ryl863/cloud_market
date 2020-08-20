@@ -1,7 +1,6 @@
-# Summary
+# 用友云生态合作介绍
 
-## 用友云生态合作白皮书
-* [首页](README.md)
+* [前言](README.md)
 * [YONBIP生态服务](mybook/isv/1-/1-.md)
     * [YONBIP生态策略总体概述](mybook/isv/1-/1-.md#1-1)
     * [YONSTORE云市场](mybook/isv/1-/1-.md#1-2)
