@@ -1,54 +1,47 @@
-# 用友云市场
+# Summary
 
-* [用友云简介](articles/yycloud/1-/zero.md)
-    * [概述](articles/yycloud/1-/README.md)
-* [了解云市场](articles/yycloud/3-/zero.md)
-    * [云市场简介](articles/yycloud/3-/yunshichang.md)
-    * [云市场服务协议](articles/yycloud/3-/fuwuxieyi.md)
-* [新手入门](articles/yycloud/2-/zero.md)
-    * [简介](articles/yycloud/2-/README.md)
-    * [购买流程](articles/yycloud/2-/goumai.md)
-    * [商品说明](articles/yycloud/2-/shangping.md)
-    * [售后服务](articles/yycloud/2-/shouhou.md)
-    * [服务纠纷](articles/yycloud/2-/jiufen.md)
-    * [申请发票](articles/yycloud/2-/shenqing.md)
-* [生态合作](articles/yycloud/5-/zero.md)
-    * [入驻条件](articles/yycloud/5-/tiaojian.md)
-    * [入驻流程](articles/yycloud/5-/liucheng.md)
-    * [常见问题](articles/yycloud/5-/wenti.md)
-* [服务商入驻](articles/yycloud/4-/zero.md)
-    * [云平台服务协议](articles/yycloud/4-/fuwuxieyi.md)
-    * [用友云服务协议](articles/yycloud/4-/yunxieyi.md)
-    * [服务商入驻流程](articles/yycloud/4-/ruzhuliucheng.md)
-    * [服务商商品上架](articles/yycloud/4-/shangjialiucheng.md)
-    * [服务商管理规范](articles/yycloud/4-/guanliguifan.md)
-* [服务保障](articles/yycloud/service/zero.md)
-    * [优质商家服务](articles/yycloud/service/service_support_1.md)
-    * [全年运维保障](articles/yycloud/service/service_support_2.md)
-    * [多渠道服务支持](articles/yycloud/service/service_support_3.md)
-* [用友云租户业务(原惠商云)](articles/yycloud/transfer/zero.md)
-    * [用友云租户业务](articles/yycloud/transfer/edit.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 用友云生态合作白皮书
+* [首页](README.md)
+* [YONBIP生态服务](mybook/isv/1-/1-.md)
+    * [YONBIP生态策略总体概述](mybook/isv/1-/1-.md#1-1)
+    * [YONSTORE云市场](mybook/isv/1-/1-.md#1-2)
+        * [YonStore云市场的价值](mybook/isv/1-/1-.md#1-2-1)
+        * [YonStore云市场优选商城](mybook/isv/1-/1-.md#1-2-2)
+        * [YonStore云市场地方子站](mybook/isv/1-/1-.md#1-2-3)
+        * [APILink](mybook/isv/1-/1-.md#1-2-4)
+* [用友云市场生态入驻](mybook/isv/2-/2-.md)
+    * [生态入驻条件](mybook/isv/2-/2-.md#2-1)
+    * [生态入驻流程](mybook/isv/2-/2-.md#2-2)
+        * [注册用友云账号](mybook/isv/2-/2-.md#2-2-1)
+        * [服务商认证](mybook/isv/2-/2-.md#2-2-2)
+        * [店铺装修](mybook/isv/2-/2-.md#2-2-3)
+        * [商品上架](mybook/isv/2-/2-.md#2-2-4)
+        * [新增商品上架](mybook/isv/2-/2-.md#2-2-5)
+    * [常见问题](mybook/isv/2-/2-.md#2-3) 
+* [用友云生态商务合作](mybook/isv/3-/3-.md) 
+    * [用友云生态合作政策](mybook/isv/3-/3-.md#3-1)
+    * [用友云生态商务对接流程](mybook/isv/3-/3-.md#3-2)
+    * [完成协议在线审批签署](mybook/isv/3-/3-.md#3-3)
+    * [加入供应商目录](mybook/isv/3-/3-.md#3-4)
+    * [融合产品售前工具包](mybook/isv/3-/3-.md#3-5)
+* [用友云生态融合选型](mybook/isv/4-/4-.md)
+    * [融合业务介绍](mybook/isv/4-/4-.md#4-1)
+    * [融合选型申请流程](mybook/isv/4-/4-.md#4-2)
+    * [融合选型资料及提交方式](mybook/isv/4-/4-.md#4-3)
+* [用友云生态产品开发对接](mybook/isv/5-/5-.md)
+* [用友云生态产品发布](mybook/isv/6-/6-.md) 
+    * [生态产品对接完成通知](mybook/isv/6-/6-.md#6-1) 
+    * [生态产品上架云商务系统](mybook/isv/6-/6-.md#6-2) 
+* [用友云生态产品营销推进](mybook/isv/7-/7-.md) 
+    * [方案对接](mybook/isv/7-/7-.md#7-1) 
+        * [云生态文库销售工具包](mybook/isv/7-/7-.md#7-1-1) 
+        * [伙伴上传步骤](mybook/isv/7-/7-.md#7-1-2)
+    * [联合营销](mybook/isv/7-/7-.md#7-2) 
+* [用友云生态产品结算](mybook/isv/8-/8-.md)
+    * [用友云生态产品在线交易流程](mybook/isv/8-/8-.md#8-1)
+        * [流程图示](mybook/isv/8-/8-.md#8-1-1)
+        * [流程说明](mybook/isv/8-/8-.md#8-1-2)
+        * [下单支付](mybook/isv/8-/8-.md#8-1-3)
+        * [开具发票](mybook/isv/8-/8-.md#8-1-4)
+    * [用友云生态产品营销一体化系统下单及结算说明](mybook/isv/8-/8-.md#8-2)
+* [用友云生态产品售后规范](mybook/isv/9-/9-.md)
