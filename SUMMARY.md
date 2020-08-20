@@ -1,14 +1,13 @@
-# Summary
+# 用友云生态合作介绍
 
-## 用友云生态合作白皮书
 * [首页](README.md)
 * [YONBIP生态服务](mybook/isv/1-/1-.md)
     * [YONBIP生态策略总体概述](mybook/isv/1-/1-.md#1-1)
     * [YONSTORE云市场](mybook/isv/1-/1-.md#1-2)
-        * [YonStore云市场的价值](mybook/isv/1-/1-.md#1-2-1)
-        * [YonStore云市场优选商城](mybook/isv/1-/1-.md#1-2-2)
-        * [YonStore云市场地方子站](mybook/isv/1-/1-.md#1-2-3)
-        * [APILink](mybook/isv/1-/1-.md#1-2-4)
+        * [YonStore云市场的价值] (mybook/isv/1-/1-.md#1-2-1)
+        * [YonStore云市场优选商城] (mybook/isv/1-/1-.md#1-2-2)
+        * [YonStore云市场地方子站] (mybook/isv/1-/1-.md#1-2-3)
+        * [APILink] (mybook/isv/1-/1-.md#1-2-4)
 * [用友云市场生态入驻](mybook/isv/2-/2-.md)
     * [生态入驻条件](mybook/isv/2-/2-.md#2-1)
     * [生态入驻流程](mybook/isv/2-/2-.md#2-2)
